@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "387614218736",
+    "project_id": "hw4-calvin-wong",
+    "storage_bucket": "hw4-calvin-wong.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387614218736:android:b03a6fb5657178d6382535",
+        "android_client_info": {
+          "package_name": "com.example.hw4_calvin_wong"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvv6arABUnpp9bYa-u-Lc6Ew-T5-cRjWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
